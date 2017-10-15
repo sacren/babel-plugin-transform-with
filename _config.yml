@@ -1,0 +1,15 @@
+# _config.yml
+
+title: Faculty Development
+description: ''
+baseurl: /faculty-development
+url: ''
+author: © 2017 Jεan Sacren
+
+timezone: America/Denver
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed

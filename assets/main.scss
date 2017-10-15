@@ -1,0 +1,12 @@
+---
+# jekyll requires this front matter block
+---
+
+@import "minima";
+
+.site-footer {
+  border-top:  0;
+  position:    absolute;
+  bottom:      0;
+  width:       100%;
+}
